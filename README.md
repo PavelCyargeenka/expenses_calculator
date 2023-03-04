@@ -2,7 +2,7 @@ Expenses Calculator
 
 This is a simple Python script that helps you count and store your 
 daily/monthly expenses in a .txt file. 
-The script creates a separate .json file for each month where the expenses 
+The script creates a .json file where the expenses 
 are stored and updates the total amount of money spent for each day in that month.
 
 Usage
